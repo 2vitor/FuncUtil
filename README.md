@@ -1,4 +1,5 @@
 # discordBotUtilities
+
 Various functions that can be used in discord bots
 
 Contributing:
@@ -6,5 +7,5 @@ Contributing:
 - Ex: Java (...) 
 
 Structure:
-lang/wrapper/function.lang
+lang/wrapper/example.lang
 Ex: js/eris/example.js
