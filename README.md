@@ -6,4 +6,4 @@ Contributing:
 - You can contribute by **translating functions** into other **programming languages**
 - Structure:
 lang/wrapper/example.lang
-Ex: js/eris/example.js
+
