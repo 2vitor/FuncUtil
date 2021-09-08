@@ -1,11 +1,11 @@
-# discordBotUtilities
+# funcUtil
 
-Various functions that can be used in discord bots
+Various util functions 
 
 Contributing:
 - You can contribute by **translating/creating functions** into other **programming languages**
 - Structure:
-lang/wrapper/example.lang
+lang/example.lang
 
 
 
