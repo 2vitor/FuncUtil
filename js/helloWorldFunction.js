@@ -1,6 +1,5 @@
 function helloWorld() {
-console.log("Hello world")
+  console.log('Hello world');
 }
-helloWorld()
-//This is an example function in Javascript
-//Teste123
+
+helloWorld(); // returns 'hello world' in console
