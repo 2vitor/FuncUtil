@@ -1,10 +1,10 @@
 # discordBotUtilities
-Various functions that can be used in discord bots (made in JavaScript)
+Various functions that can be used in discord bots
 
 Contributing:
-- You can contribute by translating functions into other languages 
-Ex: Java (...) 
-Just open a Pull request 
+- You can contribute by **translating functions** into other **programming languages** 
+- Ex: Java (...) 
+
 Structure:
-%lang%/%wrapper%/%function% 
-Ex: js/eris/example 
+lang/wrapper/function.lang
+Ex: js/eris/example.js
