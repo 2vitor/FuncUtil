@@ -5,5 +5,5 @@ function verifydm(user) {
 
 // Usage
 (async () => {
-  await verifydm('a'); // If it is true then the person's private is turned on. If it is false, it is turned off
+  await verifydm(<user>); // If it is true then the person's private is turned on. If it is false, it is turned off
 })();
