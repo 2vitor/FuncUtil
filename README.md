@@ -4,4 +4,7 @@ Various functions that can be used in discord bots (made in JavaScript)
 Contributing:
 - You can contribute by translating functions into other languages 
 Ex: Java (...) 
-Just open a Pull request!
+Just open a Pull request 
+Structure:
+%lang%/%wrapper%/%function% 
+Ex: js/eris/example 
